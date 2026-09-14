@@ -1,5 +1,5 @@
 :root {
-  --bg-color: #b9e7ff;
+  --bg-color: #eaf4ff;
   --text-color: #0b2545;
   --card-bg: #ffffff;
   --border-color: #b8dcf5;
@@ -29,7 +29,7 @@ body {
   font-family: "Segoe UI", Arial, sans-serif;
   background-color: var(--bg-color);
   color: var(--text-color);
-  transition: background-color 0.25s ease, color 0.25s ease;
+transition: background-color 0.25s ease, color 0.25s ease;
   min-height: 100vh;
 }
 
