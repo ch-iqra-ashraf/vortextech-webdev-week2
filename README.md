@@ -1,7 +1,11 @@
 # Vortextech WebDev Week 2 — Added Interactivity with JavaScript
 
 Part of my Web Development Internship Track. This week's task focuses on DOM manipulation, events, and basic client-side validation using **vanilla JavaScript** (no frameworks or libraries).
+
 Live Preview = https://contactus.iqraashraf.dev/
+
+https://github.com/user-attachments/assets/33b054f1-26a7-4a26-99e1-c4be01c62a3f
+
 ## What I Built
 
 A contact page with two features:
